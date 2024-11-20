@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "keep_bg_run_reason",
+      "value": "需要保持应用在后台运行"
+    },
+    {
+      "name": "keep_screen_on_reason",
+      "value": "需要保持屏幕常亮"
+    }
+  ]
+}
